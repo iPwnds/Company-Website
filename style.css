@@ -221,14 +221,6 @@
     color: #36454F;
   }
 
-  .blueuk {
-    color: #0057b7;
-  }
-
-  .yellowuk {
-    color: #ffd700;
-  }
-
   .botnav {
     overflow: hidden;
     justify-content: left;
@@ -268,12 +260,4 @@
     justify-content: left;
     align-items: left;
     display: flex;
-  }
-
-  #paddingl {
-    padding-left: 41vw;
-  }
-
-  #paddingr {
-    padding-right: 10vw;
   }
